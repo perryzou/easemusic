@@ -23,6 +23,7 @@ $ docker pull perryzou/easemusic
 
 ```
 $ docker run perryzou/easemusic
+
 ```
 
 ### 配置参数
@@ -45,6 +46,7 @@ optional arguments:
   -e url, --endpoint url          replace virtual endpoint with public host
   -s, --strict                    enable proxy limitation
   -h, --help                      output usage information
+
 ```
 
 ## 客户端配置
