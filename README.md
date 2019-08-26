@@ -5,6 +5,8 @@
 
 参考项目 [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
 
+>  - 修复QQ音乐链接失效的问题
+
 ## 运行
 
 源码运行
@@ -54,6 +56,7 @@ optional arguments:
  - 全局代理模式
 
 填写服务器地址 `127.0.0.1` 和端口号 `8080`
+
 | 平台    | 基础设置 |
 | :------ | :------------------------------- |
 | Windows | 设置 > 工具 > 自定义代理 (客户端内) |
@@ -68,9 +71,7 @@ optional arguments:
 > 之后出现如 MITM > ... 的请求日志即配置成功
 
 ## 其他帮助
-
 参考项目 [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-
 帮助页面 [食用指南](https://github.com/nondanee/UnblockNeteaseMusic/issues/22)
 
 
